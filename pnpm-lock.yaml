@@ -2553,7 +2553,7 @@ importers:
         version: 4.3.0(encoding@0.1.13)
     devDependencies:
       '@cloudflare/workers-types':
-        specifier: ^4.20250610.0
+        specifier: ^4.20250612.0
         version: 4.20250612.0
       '@internal/lint':
         specifier: workspace:*
@@ -2577,7 +2577,7 @@ importers:
         specifier: ^9.28.0
         version: 9.28.0(jiti@2.4.2)
       miniflare:
-        specifier: ^4.20250525.1
+        specifier: ^4.20250604.0
         version: 4.20250604.0(bufferutil@4.0.9)(utf-8-validate@6.0.5)
       tsup:
         specifier: ^8.5.0
